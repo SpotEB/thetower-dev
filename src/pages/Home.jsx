@@ -18,7 +18,7 @@ function Home() {
           </h1>
           <p className="hero-desc">
             Ethical hacker and bug bounty hunter. I find security vulnerabilities
-            before the malicious parties do. Helping organisations build safer
+            before malicious parties do. Helping organisations build safer
             systems through responsible disclosure.
           </p>
           <div className="hero-stats">
